@@ -27,7 +27,7 @@ accesible el bus I<sup>2</sup>C a todos los bolsillos. Permite además
 implementar soluciones en las que los dispositivos del robot sean controlados
 por bus I<sup>2</sup>C&nbsp; desde sistemas empotrados y PCs con puerto
 paralelo.</p>
-<p align="center"><img border="0" src="KI2C.gif" width="436" height="355"></p>
+<p align="center"><img border="0" src="KI2C.GIF" width="436" height="355"></p>
 <p align="justify"><u><b><i>Componentes</i></b></u></p>
 <p align="justify">Los componentes requeridos para la fabricación de dicha
 tarjeta son los siguiente:</p>
@@ -72,7 +72,7 @@ tarjeta son los siguiente:</p>
   <li>
     <p align="justify">2 clemas para circuito impreso pequeñas</li>
 </ul>
-<p align="justify">El valor de todos los componentes en Espa�a a la fecha del
+<p align="justify">El valor de todos los componentes en España a la fecha del
 desarrollo de este informe ha sido de 9 €</p>
 <p align="justify">&nbsp;</p>
 <p align="justify"><i><u><b>El circuito</b></u></i></p>
